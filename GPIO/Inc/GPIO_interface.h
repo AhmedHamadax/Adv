@@ -14,7 +14,7 @@
 	 PORTG
 	 
 	 }Port_t;
- 
+
  typedef enum{
 	  PIN0=0
 	 ,PIN1
